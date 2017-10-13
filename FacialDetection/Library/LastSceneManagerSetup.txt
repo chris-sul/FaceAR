@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/FacialDetection.unity
+  isLoaded: 1
+  isActive: 1
