@@ -13,4 +13,5 @@ git checkout [name_of_your_new_branch]
 git push origin [name_of_your_new_branch]
 
 **Instuctions for pulling the master branch into your development branch:**
+
 git pull
