@@ -7,8 +7,7 @@ Just some things to help with making sure that we don't tread over each others c
 1. Make sure when making changes to just make your own branch so we all aren't pushing to master and the project breaks
 2. After committing the changes push your branch and make a pull request and I can just deal with any git diff stuff so master is always a working version
 
-** Try to commit often (after like each feature addition or bug fix) so that if stuff gets messed up we have versions to go back to versus just rebasing the code **
-** With that try to make informative commit messages so we don't have to dig around to figure out what the code does **
+** Try to commit often (after like each feature addition or bug fix) so that if stuff gets messed up we have versions to go back to versus just rebasing the code With that try to make informative commit messages so we don't have to dig around to figure out what the code does **
 
 ## Style
 
