@@ -1,4 +1,4 @@
-# UnityFacialDetection
+# FaceAR
 Facial Detection in unity
 
 Instructions to making your own branch:
