@@ -21,6 +21,8 @@ git push origin [name_of_your_new_branch]
 
 git pull
 
+git rebase origin/master
+
 ### **Instuctions to push to your branch:**
 
 git add .
