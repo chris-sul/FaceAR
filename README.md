@@ -1,4 +1,5 @@
 <img src="/docs/img/facear_logo.png" alt="Logo" height="150" width="150"/>
+
 # FaceAR
 
 Facial Detection in Unity: Application detects faces in the frame that the users sees, then gets the identity of the faces and displays their information next to them.
