@@ -3,6 +3,10 @@
 
 Facial Detection in Unity: Application detects faces in the frame that the users sees, then gets the identity of the faces and displays their information next to them.
 
+Running on Unity Version 2017.3.0b5 Personal
+
+Version: 0.1 Alpha
+
 ## How to contribute:
 
 See CONTRIBUTING.md
