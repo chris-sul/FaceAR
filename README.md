@@ -8,6 +8,8 @@ Running on Unity Version 2017.3.0b5 Personal
 
 Version: 0.1 Alpha
 
+**You can build into a directory /LastBuild/ and wont track anything so it dosent have to be uploaded to the remote git**
+
 ## How to contribute:
 
 See CONTRIBUTING.md
