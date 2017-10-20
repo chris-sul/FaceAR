@@ -11,7 +11,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: FaceAR
   productName: FacialDetection
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -546,11 +546,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: FacialDetection
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: FaceAR
+  metroCertificateIssuer: FaceAR
+  metroCertificateNotAfter: 80d7b9e4de68d401
   metroApplicationDescription: FacialDetection
   wsaImages: {}
   metroTileShortName: 
