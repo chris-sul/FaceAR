@@ -51,7 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\FaceDetect.cs" />
+     <Compile Include="Assets\WorldCursor.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity 2017.3.0b5/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

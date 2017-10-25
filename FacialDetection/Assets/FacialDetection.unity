@@ -144,7 +144,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -406.7, y: 331.4}
+  m_AnchoredPosition: {x: -21.5, y: -262.5}
   m_SizeDelta: {x: 160, y: 11.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &497952818
@@ -179,7 +179,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: " Version 0.1 Alpha\n\n\n\n\n\n\n\t\n\n\n\n\n\t\t\t\tLast Identified: [None]"
+  m_Text: 'Last Identified: [None]'
 --- !u!222 &497952819
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -283,7 +283,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -543.1, y: 260.6}
+  m_AnchoredPosition: {x: -524.97, y: 260.6}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &971235533
