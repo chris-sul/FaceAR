@@ -51,7 +51,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\WorldCursor.cs" />
+     <Compile Include="Assets\Scripts\GazeGestureManager.cs" />
+     <Compile Include="Assets\Scripts\InputCommands.cs" />
+     <Compile Include="Assets\Scripts\KeywordManager.cs" />
+     <Compile Include="Assets\Scripts\SpeechManager.cs" />
+     <Compile Include="Assets\Scripts\WorldCursor.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity 2017.3.0b5/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
