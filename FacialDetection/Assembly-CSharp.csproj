@@ -56,6 +56,101 @@
      <Compile Include="Assets\Scripts\KeywordManager.cs" />
      <Compile Include="Assets\Scripts\SpeechManager.cs" />
      <Compile Include="Assets\Scripts\WorldCursor.cs" />
+     <None Include="Packages\Packages\Accord.Video.3.8.0\lib\netstandard2.0\Accord.Video.xml" />
+     <None Include="Packages\Packages\Accord.Statistics.3.8.0\lib\net40\Accord.Statistics.xml" />
+     <None Include="Packages\Packages\Accord.Controls.Imaging.3.8.0\lib\net40\Accord.Controls.Imaging.xml" />
+     <None Include="Packages\Packages\Accord.Statistics.3.8.0\lib\net35-unity web v3.5\Accord.Statistics.xml" />
+     <None Include="Packages\Packages\Accord.Imaging.3.8.0\lib\net46\Accord.Imaging.xml" />
+     <None Include="Packages\Packages\Accord.Video.3.8.0\lib\net35-unity web v3.5\Accord.Video.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net462\Accord.Math.Core.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net40\Accord.Math.xml" />
+     <None Include="Packages\Packages\Accord.Controls.Vision.3.8.0\lib\net35\Accord.Controls.Vision.xml" />
+     <None Include="Packages\Packages\Accord.Vision.3.8.0\lib\net35-unity subset v3.5\Accord.Vision.xml" />
+     <None Include="Packages\Packages\Accord.3.8.0\lib\net46\Accord.xml" />
+     <None Include="Packages\Packages\Accord.3.8.0\lib\net40\Accord.xml" />
+     <None Include="Packages\Packages\Accord.Vision.3.8.0\lib\net35-unity full v3.5\Accord.Vision.xml" />
+     <None Include="Packages\Packages\Accord.Statistics.3.8.0\lib\netstandard1.4\Accord.Statistics.xml" />
+     <None Include="Packages\Packages\Accord.MachineLearning.3.8.0\lib\net45\Accord.MachineLearning.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net46\Accord.Math.Core.xml" />
+     <None Include="Packages\Packages\Accord.MachineLearning.3.8.0\lib\net35-unity web v3.5\Accord.MachineLearning.xml" />
+     <None Include="Packages\Packages\Accord.MachineLearning.3.8.0\lib\net35\Accord.MachineLearning.xml" />
+     <None Include="Packages\Packages\Accord.Imaging.3.8.0\lib\net45\Accord.Imaging.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net35-unity subset v3.5\Accord.Math.Core.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net46\Accord.Math.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net45\Accord.Math.xml" />
+     <None Include="Packages\Packages\Accord.MachineLearning.3.8.0\lib\netstandard1.4\Accord.MachineLearning.xml" />
+     <None Include="Packages\Packages\Accord.Statistics.3.8.0\lib\net35-unity micro v3.5\Accord.Statistics.xml" />
+     <None Include="Packages\Packages\Accord.Statistics.3.8.0\lib\net35\Accord.Statistics.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net462\Accord.Math.xml" />
+     <None Include="Packages\Packages\Accord.Video.3.8.0\lib\net35\Accord.Video.xml" />
+     <None Include="Packages\Packages\Accord.Imaging.3.8.0\lib\net462\Accord.Imaging.xml" />
+     <None Include="Packages\Packages\Accord.Controls.Imaging.3.8.0\lib\net462\Accord.Controls.Imaging.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net45\Accord.Math.Core.xml" />
+     <None Include="Packages\Packages\Accord.MachineLearning.3.8.0\lib\net35-unity subset v3.5\Accord.MachineLearning.xml" />
+     <None Include="Packages\Packages\Accord.Vision.3.8.0\lib\net462\Accord.Vision.xml" />
+     <None Include="Packages\Packages\Accord.Imaging.3.8.0\lib\netstandard2.0\Accord.Imaging.xml" />
+     <None Include="Packages\Packages\Accord.3.8.0\lib\net35\Accord.xml" />
+     <None Include="Packages\Packages\Accord.Statistics.3.8.0\lib\net35-unity subset v3.5\Accord.Statistics.xml" />
+     <None Include="Packages\Packages\Accord.MachineLearning.3.8.0\lib\net35-unity micro v3.5\Accord.MachineLearning.xml" />
+     <None Include="Packages\Packages\Accord.Vision.3.8.0\lib\net40\Accord.Vision.xml" />
+     <None Include="Packages\Packages\Accord.Vision.3.8.0\lib\net46\Accord.Vision.xml" />
+     <None Include="Packages\Packages\Accord.3.8.0\lib\net35-unity web v3.5\Accord.xml" />
+     <None Include="Packages\Packages\Accord.Video.3.8.0\lib\net462\Accord.Video.xml" />
+     <None Include="Packages\Packages\Accord.Video.3.8.0\lib\net45\Accord.Video.xml" />
+     <None Include="Packages\Packages\Accord.Statistics.3.8.0\lib\net462\Accord.Statistics.xml" />
+     <None Include="Packages\Packages\Accord.MachineLearning.3.8.0\lib\netstandard2.0\Accord.MachineLearning.xml" />
+     <None Include="Packages\Packages\Accord.Controls.Vision.3.8.0\lib\net462\Accord.Controls.Vision.xml" />
+     <None Include="Packages\Packages\Accord.Vision.3.8.0\lib\net35\Accord.Vision.xml" />
+     <None Include="Packages\Packages\Accord.Vision.3.8.0\lib\net35-unity micro v3.5\Accord.Vision.xml" />
+     <None Include="Packages\Packages\Accord.Controls.Imaging.3.8.0\lib\net45\Accord.Controls.Imaging.xml" />
+     <None Include="Packages\Packages\Accord.Vision.3.8.0\lib\net45\Accord.Vision.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net40\Accord.Math.Core.xml" />
+     <None Include="Packages\Packages\Accord.Controls.Vision.3.8.0\lib\net46\Accord.Controls.Vision.xml" />
+     <None Include="Packages\Packages\Accord.MachineLearning.3.8.0\lib\net35-unity full v3.5\Accord.MachineLearning.xml" />
+     <None Include="Packages\Packages\Accord.Statistics.3.8.0\lib\net46\Accord.Statistics.xml" />
+     <None Include="Packages\Packages\Accord.Vision.3.8.0\lib\netstandard2.0\Accord.Vision.xml" />
+     <None Include="Packages\Packages\Accord.Video.3.8.0\lib\net35-unity micro v3.5\Accord.Video.xml" />
+     <None Include="Packages\Packages\Accord.Imaging.3.8.0\lib\net35-unity web v3.5\Accord.Imaging.xml" />
+     <None Include="Packages\Packages\Accord.3.8.0\lib\netstandard1.4\Accord.xml" />
+     <None Include="Packages\Packages\Accord.Statistics.3.8.0\lib\net35-unity full v3.5\Accord.Statistics.xml" />
+     <None Include="Packages\Packages\Accord.Controls.Imaging.3.8.0\lib\net46\Accord.Controls.Imaging.xml" />
+     <None Include="Packages\Packages\Accord.Imaging.3.8.0\lib\net35-unity subset v3.5\Accord.Imaging.xml" />
+     <None Include="Packages\Packages\Accord.Video.3.8.0\lib\net35-unity subset v3.5\Accord.Video.xml" />
+     <None Include="Packages\Packages\Accord.Video.3.8.0\lib\net35-unity full v3.5\Accord.Video.xml" />
+     <None Include="Packages\Packages\Accord.3.8.0\lib\net35-unity subset v3.5\Accord.xml" />
+     <None Include="Packages\Packages\Accord.3.8.0\lib\netstandard2.0\Accord.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\netstandard2.0\Accord.Math.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net35-unity full v3.5\Accord.Math.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\netstandard2.0\Accord.Math.Core.xml" />
+     <None Include="Packages\Packages\Accord.Imaging.3.8.0\lib\net35\Accord.Imaging.xml" />
+     <None Include="Packages\Packages\Accord.MachineLearning.3.8.0\lib\net46\Accord.MachineLearning.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net35-unity subset v3.5\Accord.Math.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net35-unity full v3.5\Accord.Math.Core.xml" />
+     <None Include="Packages\Packages\Accord.3.8.0\lib\net45\Accord.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net35-unity web v3.5\Accord.Math.xml" />
+     <None Include="Packages\Packages\Accord.Controls.Vision.3.8.0\lib\net40\Accord.Controls.Vision.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\netstandard1.4\Accord.Math.xml" />
+     <None Include="Packages\Packages\Accord.MachineLearning.3.8.0\lib\net462\Accord.MachineLearning.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net35\Accord.Math.Core.xml" />
+     <None Include="Packages\Packages\Accord.Imaging.3.8.0\lib\net35-unity micro v3.5\Accord.Imaging.xml" />
+     <None Include="Packages\Packages\Accord.Imaging.3.8.0\lib\net40\Accord.Imaging.xml" />
+     <None Include="Packages\Packages\Accord.MachineLearning.3.8.0\lib\net40\Accord.MachineLearning.xml" />
+     <None Include="Packages\Packages\Accord.3.8.0\lib\net462\Accord.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\netstandard1.4\Accord.Math.Core.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net35-unity micro v3.5\Accord.Math.Core.xml" />
+     <None Include="Packages\Packages\Accord.Statistics.3.8.0\lib\net45\Accord.Statistics.xml" />
+     <None Include="Packages\Packages\Accord.Statistics.3.8.0\lib\netstandard2.0\Accord.Statistics.xml" />
+     <None Include="Packages\Packages\Accord.Imaging.3.8.0\lib\net35-unity full v3.5\Accord.Imaging.xml" />
+     <None Include="Packages\Packages\Accord.Video.3.8.0\lib\net46\Accord.Video.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net35-unity web v3.5\Accord.Math.Core.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net35-unity micro v3.5\Accord.Math.xml" />
+     <None Include="Packages\Packages\Accord.Video.3.8.0\lib\net40\Accord.Video.xml" />
+     <None Include="Packages\Packages\Accord.Math.3.8.0\lib\net35\Accord.Math.xml" />
+     <None Include="Packages\Packages\Accord.3.8.0\lib\net35-unity full v3.5\Accord.xml" />
+     <None Include="Packages\Packages\Accord.Vision.3.8.0\lib\net35-unity web v3.5\Accord.Vision.xml" />
+     <None Include="Packages\Packages\Accord.Controls.Vision.3.8.0\lib\net45\Accord.Controls.Vision.xml" />
+     <None Include="Packages\Packages\Accord.Controls.Imaging.3.8.0\lib\net35\Accord.Controls.Imaging.xml" />
+     <None Include="Packages\Packages\Accord.3.8.0\lib\net35-unity micro v3.5\Accord.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity 2017.3.0b5/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -91,6 +186,132 @@
  </Reference>
  <Reference Include="UnityEngine.Purchasing">
  <HintPath>C:/Users/Chris/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.19/UnityEngine.Purchasing.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.3.8.0/lib/net35-unity subset v3.5/Accord.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Video">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Video.3.8.0/lib/net35-unity subset v3.5/Accord.Video.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Controls.Imaging">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Controls.Imaging.3.8.0/lib/net35/Accord.Controls.Imaging.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.MachineLearning">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.MachineLearning.3.8.0/lib/net35/Accord.MachineLearning.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Math">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Math.3.8.0/lib/net35-unity web v3.5/Accord.Math.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Vision">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Vision.3.8.0/lib/net35-unity full v3.5/Accord.Vision.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Math.Core">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Math.3.8.0/lib/net35/Accord.Math.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.3.8.0/lib/net35-unity full v3.5/Accord.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.3.8.0/lib/net35/Accord.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Vision">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Vision.3.8.0/lib/net35/Accord.Vision.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Math.Core">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Math.3.8.0/lib/net35-unity full v3.5/Accord.Math.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Math.Core">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Math.3.8.0/lib/net35-unity web v3.5/Accord.Math.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Statistics">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Statistics.3.8.0/lib/net35-unity web v3.5/Accord.Statistics.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.3.8.0/lib/net35-unity web v3.5/Accord.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Statistics">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Statistics.3.8.0/lib/net35-unity subset v3.5/Accord.Statistics.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Vision">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Vision.3.8.0/lib/net35-unity micro v3.5/Accord.Vision.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Statistics">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Statistics.3.8.0/lib/net35-unity full v3.5/Accord.Statistics.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Math">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Math.3.8.0/lib/net35-unity subset v3.5/Accord.Math.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Vision">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Vision.3.8.0/lib/net35-unity web v3.5/Accord.Vision.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Video">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Video.3.8.0/lib/net35-unity web v3.5/Accord.Video.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.3.8.0/lib/net35-unity micro v3.5/Accord.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.MachineLearning">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.MachineLearning.3.8.0/lib/net35-unity subset v3.5/Accord.MachineLearning.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.MachineLearning">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.MachineLearning.3.8.0/lib/net35-unity full v3.5/Accord.MachineLearning.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Imaging">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Imaging.3.8.0/lib/net35/Accord.Imaging.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Video">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Video.3.8.0/lib/net35-unity full v3.5/Accord.Video.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Math.Core">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Math.3.8.0/lib/net35-unity micro v3.5/Accord.Math.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Math">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Math.3.8.0/lib/net35-unity micro v3.5/Accord.Math.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Video">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Video.3.8.0/lib/net35-unity micro v3.5/Accord.Video.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Imaging">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Imaging.3.8.0/lib/net35-unity web v3.5/Accord.Imaging.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Imaging">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Imaging.3.8.0/lib/net35-unity micro v3.5/Accord.Imaging.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Math.Core">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Math.3.8.0/lib/net35-unity subset v3.5/Accord.Math.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.MachineLearning">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.MachineLearning.3.8.0/lib/net35-unity web v3.5/Accord.MachineLearning.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Imaging">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Imaging.3.8.0/lib/net35-unity subset v3.5/Accord.Imaging.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.MachineLearning">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.MachineLearning.3.8.0/lib/net35-unity micro v3.5/Accord.MachineLearning.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Statistics">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Statistics.3.8.0/lib/net35-unity micro v3.5/Accord.Statistics.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Math">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Math.3.8.0/lib/net35/Accord.Math.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Imaging">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Imaging.3.8.0/lib/net35-unity full v3.5/Accord.Imaging.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Math">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Math.3.8.0/lib/net35-unity full v3.5/Accord.Math.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Statistics">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Statistics.3.8.0/lib/net35/Accord.Statistics.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Controls.Vision">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Controls.Vision.3.8.0/lib/net35/Accord.Controls.Vision.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Video">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Video.3.8.0/lib/net35/Accord.Video.dll</HintPath>
+ </Reference>
+ <Reference Include="Accord.Vision">
+ <HintPath>C:/Users/Chris/Documents/Ar Club/FaceAR/FacialDetection/Packages/Accord.Vision.3.8.0/lib/net35-unity subset v3.5/Accord.Vision.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
